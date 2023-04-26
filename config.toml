@@ -15,13 +15,13 @@ publishDir = "docs"
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
 
 # navigation
-[menu]
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+#[menu]
+#  [[menu.main]]
+#  name = "About"
+#  URL = "about"
+#  [[menu.main]]
+#  name = "Contact"
+#  URL = "contact"
 
 [params]
 home = "Home" # What you want the homepage to show up as in the menu bar
@@ -36,4 +36,4 @@ author = "ptaritepui"
   # This contains the contact information for the footer
   [params.footer]
   email = ""
-  address = "Somewhere"
+  address = ""

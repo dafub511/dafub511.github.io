@@ -1,5 +1,5 @@
 banner:
-  title: Ejemplo de Web basada en GitHub Pages + Hugo
+  title: Web basada en GitHubPages + Hugo y publicada con GitHub Actions
 
 social:
   github: "ptaritepui"

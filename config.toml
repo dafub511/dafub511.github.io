@@ -35,5 +35,6 @@ author = "ptaritepui"
 
   # This contains the contact information for the footer
   [params.footer]
-  email = ""
-  address = ""
+  Sofware = "Hugo"
+  Framework = "GitHub Pages"
+  Published = "GitHub Actions"

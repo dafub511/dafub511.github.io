@@ -15,10 +15,10 @@ publishDir = "docs"
   URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
 
 # navigation
-[menu]
-  [[menu.main]]
-  name = "About"
-  URL = "about"
+#[menu]
+#  [[menu.main]]
+#  name = "About"
+#  URL = "about"
 #  [[menu.main]]
 #  name = "Contact"
 #  URL = "contact"
